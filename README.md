@@ -1,0 +1,1 @@
+# Basit-Database--islemleri
