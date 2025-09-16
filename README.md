@@ -39,3 +39,7 @@ Bash
 python3 app.py
 
 Uygulama, terminalde çalışmaya başlayacak ve CRUD işlemleri için komut satırı arayüzü sunacaktır.
+
+
+<img width="1920" height="1080" alt="resim" src="https://github.com/user-attachments/assets/c14bb1e0-3cae-4890-9e47-5559c6f6076e" />
+
