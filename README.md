@@ -41,5 +41,5 @@ python3 app.py
 Uygulama, terminalde çalışmaya başlayacak ve CRUD işlemleri için komut satırı arayüzü sunacaktır.
 
 
-<img width="1920" height="1080" alt="resim" src="https://github.com/user-attachments/assets/c14bb1e0-3cae-4890-9e47-5559c6f6076e" />
+<img width="377" height="275" alt="resim" src="https://github.com/user-attachments/assets/d37cc0e4-900c-4ab1-9243-6a5a862bcc30" />
 
