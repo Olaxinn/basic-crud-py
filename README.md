@@ -16,7 +16,7 @@ Gereksinimler
 
     Python 3.x
 
-    db.py dosyasının çalıştırılması için gerekli modüller (eğer varsa, requirements.txt dosyasını belirtin).
+    db.py dosyasının çalıştırılması için gerekli modüller.
 
 Kurulum ve Kullanım
 
