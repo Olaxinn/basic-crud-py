@@ -42,4 +42,8 @@ Uygulama, terminalde çalışmaya başlayacak ve CRUD işlemleri için komut sat
 
 
 <img width="377" height="275" alt="resim" src="https://github.com/user-attachments/assets/d37cc0e4-900c-4ab1-9243-6a5a862bcc30" />
+<img width="523" height="261" alt="resim" src="https://github.com/user-attachments/assets/e0dc0ee2-bff7-40dd-bc26-b6fba870e906" />
+<img width="475" height="240" alt="resim" src="https://github.com/user-attachments/assets/0ce5def1-6ada-49cf-a7c1-00d5fbf708f2" />
+
+
 
